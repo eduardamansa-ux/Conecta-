@@ -226,6 +226,7 @@ Projeto desenvolvido por estudantes da **UNICID — Universidade Cidade de São 
 | Kauan Camargo Anastácio |
 | Eduarda Fernandes Barra Mansa |
 | Juliana Rodrigues de Oliveira |
+| Bruno Novais |
 
 **Disciplina:** Front-End para Web  
 **Professor:** Paulo Fratta  
